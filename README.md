@@ -190,11 +190,5 @@ See `requirements.txt` for complete list with versions.
 - The analysis can be easily adapted for different datasets
 - Flight risk threshold (4 negative messages) can be adjusted if needed
 
-## Contact
-
-For questions or issues, please refer to the project documentation or contact the project maintainer.
-
----
-
 **Note**: This is an internal evaluation project. Please do not share project information publicly.
 
